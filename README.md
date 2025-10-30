@@ -1,0 +1,3 @@
+#Hello world segundo intento de Merge, el anterior salio mal.
+Este es mi primer repositorio en GitHub, conectado con VS Code.
+Estoy aprendiendo cómo funcionan las ramas y el control de versiones.
